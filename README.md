@@ -10,7 +10,12 @@ I'm interested in computer vision, applied machine learning, and dependable comp
 
 A team-built application that uses a webcam to track hands and detect contact with moving obstacles.
 
-**My contribution:** ran application tests, analyzed results, and modified timing and hand–obstacle collision logic.  
+<a href="https://github.com/Haozhe-peter/gesture-recognition-portfolio#team-demo"><img src="https://raw.githubusercontent.com/Haozhe-peter/gesture-recognition-portfolio/main/hand-tracking-preview.png" alt="Team demo: two-hand landmark tracking with selective background blur" width="560"></a>
+
+*Team recording: hand tracking and background blur. Click the preview to view the demo.*
+
+**My contribution:** ran application tests, analyzed results, and modified timing and hand–obstacle collision logic.
+
 **Project stack:** Python · OpenCV · MediaPipe · NumPy
 
 [View team demo, implementation, and testing considerations →](https://github.com/Haozhe-peter/gesture-recognition-portfolio)
@@ -19,8 +24,10 @@ A team-built application that uses a webcam to track hands and detect contact wi
 
 A team project exploring state-bit faults in trust algorithms, alongside a separate triple-modular-redundancy (TMR) voting demonstration.
 
-**My contribution:** generated simulation waveform images to document signal behavior.  
-**Team result:** an archived add-one/voter simulation passed **256/256 checks** within its defined test scenario.  
+**My contribution:** generated simulation waveform images to document signal behavior.
+
+**Team result:** an archived add-one/voter simulation passed **256/256 checks** within its defined test scenario.
+
 **Project stack:** C++ · Vitis HLS · Verilog testbench · Vivado
 
 [View project: simulation evidence and synthesis estimates →](https://github.com/Haozhe-peter/fault-tolerant-systems-portfolio)
